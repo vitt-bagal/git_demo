@@ -1,1 +1,2 @@
 This is test file in git
+Adding changes from new_branch
